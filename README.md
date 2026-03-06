@@ -5,5 +5,5 @@
 **Key Upgrades in Progress:**
 
 * **AlloyDB AI Integration:** Migrating our data layer to **AlloyDB AI** to leverage high-performance vector search and integrated machine learning.
-* **Deep Medical Insights:** Medical insights and understanding for long-term wellness tracking for aactual use of the users.
+* **Deep Medical Insights:** Medical insights and understanding for long-term wellness tracking for benificial use of the users.
 * **Robust Backend Scaling:** Building a resilient infrastructure capable of handling high-concurrency and sensitive data grounding at scale.
